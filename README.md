@@ -2,3 +2,5 @@
 A python program that converts gerber files into an openscad program, to be exported into stl.
 
 note: i made this in like an hour and i never worked with gerber files nor openscad before so the code is bad and it slow.
+
+how it works: run genscad.py (make sure you have openscad installed so you can view it)
