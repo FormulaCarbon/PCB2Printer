@@ -5,5 +5,6 @@ note: i made this in like an hour and i never worked with gerber files nor opens
 
 ## how to use
 download all files in the pcbmaker folder. To run the program, run the command `py -m pcb2printer PATH_TO_BOARD_FILE PATH_TO_WIRE_FILE`. use `py -m pcb2printer --help` for full information on how to use.
+most of the time, your boardfile and wiringfile will be the same.
 
 it will throw an error but thats ok. just open `NAME_OF_OUTFILE.stl.scad`. the program may output the file without an extension. if it does, then just add `.scad` to the end.
